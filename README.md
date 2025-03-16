@@ -8,9 +8,13 @@ The project uses Python and several libraries, such as pandas for data handling,
 Features
 
 Load CSV Files: Read training and testing datasets containing tweet text and sentiment labels.
+
 Preprocessing: Clean and preprocess the tweet text by removing stop words, punctuation, URLs, mentions, etc.
+
 Sentiment Classification: Build a machine learning model to classify tweet sentiments as Positive, Negative, or Neutral.
+
 Model Evaluation: Evaluate the model's performance using metrics like accuracy, precision, recall, and F1 score.
+
 Visualization: Visualize the distribution of sentiments and the performance of the model.
 
 Prerequisites
