@@ -14,6 +14,7 @@ Model Evaluation: Evaluate the model's performance using metrics like accuracy, 
 Visualization: Visualize the distribution of sentiments and the performance of the model.
 
 Prerequisites
+
 Before running the project, make sure you have the following libraries installed:
 
 Python 3.x
